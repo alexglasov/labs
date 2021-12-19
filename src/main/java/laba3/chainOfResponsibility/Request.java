@@ -1,4 +1,4 @@
-package chainOfResponsibility;
+package laba3.chainOfResponsibility;
 
 import java.util.HashMap;
 import java.util.Map;

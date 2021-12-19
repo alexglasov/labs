@@ -1,4 +1,4 @@
-package iterator;
+package laba3.iterator;
 
 public class Item {
     private final String name;

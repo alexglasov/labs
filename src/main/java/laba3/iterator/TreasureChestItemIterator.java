@@ -1,4 +1,4 @@
-package iterator;
+package laba3.iterator;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package strategy;
+package laba3.strategy;
 
 import lombok.NonNull;
 import org.apache.commons.lang.StringUtils;

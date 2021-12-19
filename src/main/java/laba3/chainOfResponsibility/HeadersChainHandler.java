@@ -1,9 +1,7 @@
-package chainOfResponsibility;
+package laba3.chainOfResponsibility;
 
 import lombok.NonNull;
 import org.apache.commons.lang.StringUtils;
-
-import java.util.stream.Stream;
 
 public class HeadersChainHandler extends AbstractChainHandler {
     private static final String DELIMITER = ":";

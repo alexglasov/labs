@@ -1,12 +1,14 @@
-import chainOfResponsibility.ChainService;
-import chainOfResponsibility.Request;
-import iterator.Item;
-import iterator.ItemType;
-import iterator.Iterator;
-import iterator.TreasureChest;
-import strategy.CommaSeparatedStrategy;
-import strategy.SemicolonSeparatedStrategy;
-import strategy.StringJoiner;
+package laba3;
+
+import laba3.chainOfResponsibility.ChainService;
+import laba3.chainOfResponsibility.Request;
+import laba3.iterator.Item;
+import laba3.iterator.ItemType;
+import laba3.iterator.Iterator;
+import laba3.iterator.TreasureChest;
+import laba3.strategy.CommaSeparatedStrategy;
+import laba3.strategy.SemicolonSeparatedStrategy;
+import laba3.strategy.StringJoiner;
 
 import java.util.Arrays;
 
