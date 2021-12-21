@@ -3,9 +3,9 @@ package laba7;
 import laba7.hibernate.HibernateSessionService;
 import org.junit.Test;
 
-class HibernateServiceTest {
+public class HibernateServiceTest {
     @Test
-    void exec() {
+    public void test() {
         HibernateSessionService service = new HibernateSessionService();
         service.exec();
     }

@@ -49,7 +49,7 @@ public class ApplicationEntryPoint {
         System.out.println(result);
     }
 
-    static void testIterator() {
+    static public void testIterator() {
         TreasureChest treasureChest = new TreasureChest();
         Iterator<Item> iterator = treasureChest.iterator(ItemType.ANY);
 
